@@ -1,5 +1,13 @@
 .DS_Store
-*.txt
+*_diff.txt
+*_out.txt
+*_report.md
 package-lock.json
 *.zip
 node_modules/
+*.pdf
+.vscode/
+*.out
+pfind
+minishell
+
